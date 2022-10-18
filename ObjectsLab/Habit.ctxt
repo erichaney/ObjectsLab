@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Habit
+comment1.params=
+comment1.target=void\ addCompletion()
+comment1.text=\#\n\ []\ TODO\ 3\:\ Create\ a\ second\ constructor\ for\ a\ Habit\n\ that\ takes\ no\ inputs\ and\ chooses\ generic\ defaults\n\ for\ all\ of\ the\ fields.\ These\ will\ be\ edited\ by\ a\ user\ \n\ later.\n\ \n\ For\ instance,\ the\ name\ of\ the\ habit\ could\ be\ set\ to\n\ something\ like\ "Enter\ a\ description."\n
+comment2.params=
+comment2.target=void\ resetCompletions()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=n
+comment4.target=void\ setGoal(int)
+comment5.params=
+comment5.target=boolean\ isComplete()
+comment6.params=
+comment6.target=double\ getGoalProgress()
+numComments=7

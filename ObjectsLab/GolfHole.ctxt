@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GolfHole
+comment1.params=gb
+comment1.target=double\ distanceTo(GolfBall)
+comment1.text=\#\n\ []\ TODO\ 10\:\ Write\ a\ constructor\ for\ a\ golf\ hole.\ The\ x\ and\ y\ coordinates\n\ should\ be\ accepted\ as\ inputs.\n\ \n\ Give\ the\ closeEnough\ constant\ a\ value\ of\ 5.\n
+comment2.params=gb
+comment2.target=boolean\ hasGolfBall(GolfBall)
+numComments=3

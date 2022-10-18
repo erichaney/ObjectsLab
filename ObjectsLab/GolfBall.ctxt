@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GolfBall
+comment1.params=
+comment1.target=boolean\ isMoving()
+comment1.text=\#\n\ []\ TODO\ 2\:\ Create\ a\ constructor\ for\ a\ golf\ ball.\ The\ x\ and\ y\ coordinates\n\ should\ be\ accepted\ as\ inputs.\n\ \n\ The\ golf\ ball\ should\ not\ be\ moving\ (should\ have\ zero\ velocity)\ on\ construction.\n\ \n\ The\ friction\ constant\ should\ be\ set\ to\ an\ intermediate\ value\ between\ 0.0\ and\ 1.0,\ \n\ where\ 0\ means\ no\ friction\ at\ all,\ and\ 1\ means\ the\ ball\ will\ not\ move.\n
+comment2.params=
+comment2.target=void\ move()
+comment3.params=xv\ yv
+comment3.target=void\ setVelocity(double,\ double)
+comment4.params=
+comment4.target=void\ applyFriction()
+comment5.params=
+comment5.target=void\ bounceHorizontal()
+comment6.params=
+comment6.target=void\ bounceVertical()
+numComments=7
