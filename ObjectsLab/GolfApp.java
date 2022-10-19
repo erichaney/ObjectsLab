@@ -39,8 +39,7 @@ public class GolfApp extends Application
         Canvas canvas = new Canvas(game.width, game.height);
         gc = canvas.getGraphicsContext2D();
         
-        VBox vbox = new VBox();
-        vbox.getChildren().add(canvas);
+        VBox vbox = new VBox(canvas);
         Scene scene = new Scene(vbox);
         
         scene.setOnMouseClicked(this::handleClick);
